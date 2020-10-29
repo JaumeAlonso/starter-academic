@@ -4,17 +4,22 @@ role: Postdoctoral Researcher in Mathematics
 avatar_filename: photojobfair1.jpg
 bio: "I am a postdoctoral researcher on Dynamical Systems and Integrability. "
 interests:
-  - Dynamical_Systems
+  - Dynamical Systems
   - Integrability
   - Geometry
 social: []
-organizations: []
+organizations:
+  - name: Technische Universität Berlin
 education:
-  courses: []
+  courses:
+    - course: PhD in Mathematics
+      institution: University of Antwerp
+    - course: MSc in Physics
+      institution: University of Uppsala
+    - course: Double BSc in Mathematics & Physics
+      institution: Universitat Autònoma de Barcelona
 email: ""
 superuser: true
-user_groups:
-  - Researchers
-  - Visitors
+user_groups: []
 highlight_name: false
 ---

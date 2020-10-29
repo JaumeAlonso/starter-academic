@@ -17,7 +17,7 @@ education:
     - course: MSc in Physics
       institution: University of Uppsala
     - course: Double BSc in Mathematics & Physics
-      institution: Universitat Autònoma de Barcelona
+      institution: Autonomous University of Barcelona
 email: ""
 superuser: true
 user_groups: []

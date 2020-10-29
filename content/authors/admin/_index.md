@@ -16,7 +16,9 @@ education:
       institution: University of Antwerp
     - course: MSc in Physics
       institution: University of Uppsala
-    - course: Double BSc in Mathematics & Physics
+    - course: BSc in Mathematics
+      institution: Autonomous University of Barcelona
+    - course: BSc in Physics
       institution: Autonomous University of Barcelona
 email: ""
 superuser: true

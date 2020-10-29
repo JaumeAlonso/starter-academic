@@ -6,7 +6,8 @@ bio: "I am a postdoctoral researcher on Dynamical Systems and Integrability. "
 interests:
   - Dynamical Systems
   - Integrability
-  - Geometry
+  - Symplectic Geometry
+  - Discretisation
 social:
   - icon_pack: fab
     link: https://www.linkedin.com/in/jaumealonso/

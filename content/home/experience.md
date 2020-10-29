@@ -35,4 +35,13 @@ date_format = "Jan 2006"
   date_end = "2020-09-30"
   description = ""
 
+[[experience]]
+  title = "Doctoral Candidate"
+  company = "University of Antwerp"
+  company_url = ""
+  location = "Antwerp, Belgium"
+  date_start = "2015-10-01"
+  date_end = "2019-09-30"
+  description = ""
+
 +++

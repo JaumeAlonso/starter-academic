@@ -11,6 +11,18 @@ social:
   - icon_pack: fab
     link: https://www.linkedin.com/in/jaumealonso/
     icon: linkedin
+  - link: https://scholar.google.be/citations?user=tVnlEhMAAAAJ
+    icon_pack: ai
+    icon: google-scholar
+  - link: https://www.researchgate.net/profile/Jaume_Alonso
+    icon_pack: ai
+    icon: researchgate
+  - link: https://publons.com/researcher/2001920/jaume-alonso/
+    icon_pack: ai
+    icon: researcherid
+  - link: https://orcid.org/0000-0002-6674-8754
+    icon_pack: ai
+    icon: orcid
 organizations:
   - name: Technische Universität Berlin
 education:

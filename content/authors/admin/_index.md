@@ -4,10 +4,12 @@ role: Postdoctoral Researcher in Mathematics
 avatar_filename: photojobfair1.jpg
 bio: "I am a postdoctoral researcher on Dynamical Systems and Integrability. "
 interests:
-  - Dynamical Systems
-  - Integrability
-  - Symplectic Geometry
-  - Discretisation
+  - Dynamical systems
+  - Integrable systems
+  - Classification of integrable systems
+  - Geometric aspects of dynamics
+  - Discretisation of multidimensional integrable systems 
+  - Symplectic geometry and invariants
 social:
   - icon_pack: fab
     link: https://www.linkedin.com/in/jaumealonso/
@@ -41,8 +43,9 @@ superuser: true
 user_groups: []
 highlight_name: false
 ---
-I am a postdoctoral researcher in Mathematics. My research lies in the area of **dynamical systems** and **integrability** and focuses on the classification of semitoric and discrete integrable systems. At the moment I am working in the **Mathematical Physics and Geometry** group of the Technical University of Berlin, under the mentoring of [Prof. Yuri Suris](http://page.math.tu-berlin.de/~suris/). 
+I am a postdoctoral researcher in Mathematics. My research lies in the area of **dynamical systems** and **integrability** and focuses on the classification of semitoric systems and discrete integrable systems. I am a member of the [Geometry and Mathematical Physics](https://www.math.tu-berlin.de/arbeitsgruppen/ag_geometrie_und_mathematische_physik/geometrie_und_mathematische_physik/parameter/en/) group of the Technical University of Berlin, under the mentoring of [Prof. Yuri Suris](http://page.math.tu-berlin.de/~suris/). I am also part of the [SFB Discretisation in Geometry and Dynamics (Transregio 109)](https://www.discretization.de/) programme of the German Research Foundation (DFG).
 
 This semester I am also responsible, together with [Felix Schröder](http://page.math.tu-berlin.de/~fschroed/), for the exercise sessions of *Mathematik für PhysikerInnen I.*
 
 **-- This website is in construction --** 
+

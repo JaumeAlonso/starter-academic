@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Previous teaching @ Universiteit Antwerpen
+title: Universiteit Antwerpen
 subtitle: 
 
 design:
@@ -34,38 +34,38 @@ design:
 
 #### Summer Semester 2020:
 
-* **Multivariate Calculus:** in Dutch, 1st year BSc, Exercise sessions
+* **Multivariate Calculus:** 1st year BSc, Exercise sessions (in Dutch)
 
 #### Summer Semester 2019:
 
-* **Multivariate Calculus:** in Dutch, 1st year BSc, Exercise sessions
+* **Multivariate Calculus:** 1st year BSc, Exercise sessions (in Dutch)
 
 #### Summer Semester 2018:
 
-* **Multivariate Calculus:** in Dutch, 1st year BSc, Exercise sessions
+* **Multivariate Calculus:** 1st year BSc, Exercise sessions (in Dutch)
 
 #### Winter Semester 2017-18:
 
-* **Geometric Functional Analysis:** in Dutch, 1st year MSc, Exercise sessions
+* **Geometric Functional Analysis:** 1st year MSc, Exercise sessions (in Dutch)
 
-* **Dynamical Systems:** in Dutch, 3rd year BSc, Exercise sessions
+* **Dynamical Systems:** 3rd year BSc, Exercise sessions (in Dutch)
 
 #### Summer Semester 2017:
 
-* **Multivariate Calculus:** in Dutch, 1st-2nd year BSc, Exercise sessions
+* **Multivariate Calculus:** 1st-2nd year BSc, Exercise sessions (in Dutch)
 
 #### Winter Semester 2016-17:
 
-* **Ordinary Differential Equations:** in English, 2nd year BSc, Exercise sessions
+* **Ordinary Differential Equations:** 2nd year BSc, Exercise sessions (in English)
 
-* **Dynamical Systems:** in English, 3rd year BSc, Exercise sessions
+* **Dynamical Systems:** 3rd year BSc, Exercise sessions (in English)
 
 #### Summer Semester 2016:
 
-* **Metric Spaces and differential calculus:** in English, 1st-2nd year BSc, Exercise sessions
+* **Metric Spaces and differential calculus:** 1st-2nd year BSc, Exercise sessions (in English)
 
 #### Winter Semester 2015:
 
-* **Ordinary Differential Equations:** in English, 2nd year BSc, Exercise sessions
-* **Dynamical Systems:** in English, 3rd year BSc, Exercise sessions
+* **Ordinary Differential Equations:** 2nd year BSc, Exercise sessions (in English)
+* **Dynamical Systems:** 3rd year BSc, Exercise sessions (in English)
 

@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Teaching @ Technische Universität Berlin 
+title: Technische Universität Berlin 
 subtitle: 
 
 design:
@@ -28,13 +28,20 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
+#### Summer Semester 2021:
 
+* ##### Mathematik für PhysikerInnen II (1st year BSc):
+
+  * Coordination of the team of tutors, creation of content and teaching of the exercise sessions
+  * Lectures: [Yuri Suris](http://page.math.tu-berlin.de/~suris/)
+  * [Course Info](https://isis.tu-berlin.de/course/view.php?id=24244)
+  * Language of instruction: German
 
 #### Winter Semester 2020-21:
 
 * ##### Mathematik für PhysikerInnen I (1st year BSc):
 
-  * Coordination, teaching and creation of content for exercise sessions, together with [Felix Schröder](http://page.math.tu-berlin.de/~fschroed/)
+  * Coordination of the team of tutors, creation of content and teaching of the exercise sessions, together with [Felix Schröder](http://page.math.tu-berlin.de/~fschroed/)
   * Lectures: [Yuri Suris](http://page.math.tu-berlin.de/~suris/)
   * [Course Info](https://isis.tu-berlin.de/course/view.php?id=22229)
   * Language of instruction: German

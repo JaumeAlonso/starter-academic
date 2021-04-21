@@ -34,9 +34,13 @@ design:
   * Journal link: https://link.springer.com/article/10.1007%2Fs00332-021-09706-4
   * ArXiv preprint: https://arxiv.org/abs/2006.15369
 
+
+
 * J. Alonso, H. R. Dullin and S. Hohloch - **Symplectic classification of coupled angular momenta**, *Nonlinearity*, 33 417 (2020). 
   * Journal link: https://iopscience.iop.org/article/10.1088/1361-6544/ab4e05
   * ArXiv preprint: https://arxiv.org/abs/1808.05849
+
+
 
 * J. Alonso, H.R. Dullin and S. Hohloch - **Taylor series and twisting-index invariants of coupled spin-oscillators**, *Journal of Geometry and Physics*, 140:131 - 151 (2019).
   * Journal link: https://doi.org/10.1016/j.geomphys.2018.09.022

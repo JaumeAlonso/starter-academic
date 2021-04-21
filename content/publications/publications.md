@@ -36,9 +36,13 @@ design:
 
 
 
+
+
 * J. Alonso, H. R. Dullin and S. Hohloch - **Symplectic classification of coupled angular momenta**, *Nonlinearity*, 33 417 (2020). 
   * Journal link: https://iopscience.iop.org/article/10.1088/1361-6544/ab4e05
   * ArXiv preprint: https://arxiv.org/abs/1808.05849
+
+
 
 
 

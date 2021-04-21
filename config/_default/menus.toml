@@ -8,6 +8,11 @@
   url = "teaching/"
   weight = 10
 
+[[main]]
+  name = "Publications"
+  url = "publications/"
+  weight = 20
+
 #[[main]]
 #  name = "Home"
 #  url = "#about"
